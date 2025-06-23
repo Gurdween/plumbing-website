@@ -23,11 +23,11 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-    https://github.com/Gurdween/website-for-a-Recruitment-HR-Agency.git
+    https://github.com/Gurdween/plumbing-website.git
    
 2. Navigate to the project folder:
    ```bash
-   cd talent sync
+   cd flowmaster pro
 3. Open `index.html` in your browser
 
 ## 👨‍💻 Author
