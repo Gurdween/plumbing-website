@@ -30,6 +30,17 @@ To run this project locally:
    cd flowmaster pro
 3. Open `index.html` in your browser
 
+## 🌱 Future Improvements
+
+Here are some ideas for future enhancements:
+
+- 💬 Add a live chat or WhatsApp integration  
+- 🧾 Add a quote request form with validation  
+- 🖼️ Improve image optimization and lazy loading  
+- ✨ Add animations for a more dynamic user experience  
+- 📱 Improve accessibility and keyboard navigation  
+
+
 ## 👨‍💻 Author
 
 📧 Email: enebeligodwin2@gmail.com
